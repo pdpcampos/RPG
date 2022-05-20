@@ -1,0 +1,7 @@
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\bin\Debug\rpg.exe.config
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\bin\Debug\rpg.exe
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\bin\Debug\rpg.pdb
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\obj\Debug\rpg.csproj.AssemblyReference.cache
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\obj\Debug\rpg.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\obj\Debug\rpg.exe
+C:\Users\PEDRO\OneDrive\Documentos\rpg\rpg\obj\Debug\rpg.pdb
